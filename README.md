@@ -1,4 +1,3 @@
-```markdown
 # Matching Game
 
 Matching Game is a fun memory matching game built with React. The objective is to flip over pairs of cards and match them with as few turns and as little time as possible. Once all pairs are matched, a win screen is shown; if you run out of turns (or time, if you add that feature), a lose screen appears. This project builds upon a tutorial from the Net Ninja React Course, with added features such as a timer, a scoring system, and both win and lose screens.
